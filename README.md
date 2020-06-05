@@ -1,2 +1,2 @@
-# RSA-C-
-Basic RSA encoder/decoder with NTL library
+# RSA-C++
+Basic RSA encoder/decoder with C++ NTL library
